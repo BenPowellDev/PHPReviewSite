@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <heading></heading>
+    <tagline></tagline>
+    <storyimg_href></storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary> </summary>
+    <link></link>
+    <linktitle></linktitle>
+  </Article>
+  <Article>
+    <heading></heading>
+    <tagline></tagline>
+    <storyimg_href></storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary></summary>
+    <link></link>
+    <linktitle></linktitle>
+  </Article>
+</Articles>
